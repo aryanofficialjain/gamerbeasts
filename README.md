@@ -1,3 +1,1 @@
-# gamerbeasts.github.io
-
-@aryanofficilajain | https://gamersbeasts.blogspot.com/ | This is a Gaming Website i made using html and css | it contains latest design and font you learn a lot from this website "gamerbeasts"
+Are you a gaming enthusiast looking to create a website that stands out? Check out our GitHub repository featuring HTML and CSS code for building an eye-catching gaming website! Our customizable templates and easy-to-follow instructions make it easy for you to create an SEO-optimized site that ranks high in search results. Start building your online gaming presence today with our gaming website GitHub repository! #GamingWebsite #HTML #CSS #GitHub #SEO #Optimization and you can also connect me on linked in profile - https://www.linkedin.com/in/aryan-jain-124717272/
